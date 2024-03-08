@@ -1,0 +1,15 @@
+{
+  "name": "simple-react-button",
+  "version": "1.0.0",
+  "description": "React native button",
+  "main": "index.js",
+  "author": "@orihurah",
+  "repository": "https://github.com/Standinwol/simple-react-button",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "button"
+  ],
+  "dependencies": {
+  }
+}
