@@ -1,6 +1,6 @@
 {
   "name": "simple-react-btn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React native button",
   "main": "index.js",
   "author": "@orihurah",
@@ -11,5 +11,8 @@
     "button"
   ],
   "dependencies": {
+    "@orihurah/tea-xyz-quest": "^1.0.3",
+    "simple-claculator": "^1.0.2",
+    "simple-slider-photo": "^1.0.1"
   }
 }
